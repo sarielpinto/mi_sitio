@@ -17,6 +17,10 @@ http://PLACEHOLDER.wpsho/wp-content/plugins/woocommerce/assets/css/twenty-twenty
 /category/sin-categoria/
 /2020/04/30/hola-mundo/
 /author/sariel/
+/wp-content/uploads/2020/05/Logo.png
+/wp-content/uploads/2020/05/Logo-300x292.png
+/wp-content/uploads/2020/05/Eslogan-1.png
+/wp-content/uploads/2020/05/Eslogan-1-300x41.png
 /2020/04/
 /wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js
 /wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js
@@ -43,6 +47,10 @@ http://PLACEHOLDER.wpsho/wp-content/plugins/woocommerce/assets/css/twenty-twenty
 /pagina-ejemplo/
 /category/sin-categoria/
 /author/sariel/
+/wp-content/uploads/2020/05/Logo.png
+/wp-content/uploads/2020/05/Logo-300x292.png
+/wp-content/uploads/2020/05/Eslogan-1.png
+/wp-content/uploads/2020/05/Eslogan-1-300x41.png
 /2020/04/
 /wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js
 /wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js
@@ -68,6 +76,10 @@ http://PLACEHOLDER.wpsho/wp-content/plugins/woocommerce/assets/css/twenty-twenty
 /category/sin-categoria/
 /2020/04/30/hola-mundo/
 /author/sariel/
+/wp-content/uploads/2020/05/Logo.png
+/wp-content/uploads/2020/05/Logo-300x292.png
+/wp-content/uploads/2020/05/Eslogan-1.png
+/wp-content/uploads/2020/05/Eslogan-1-300x41.png
 /2020/04/
 /wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js
 /wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js
@@ -93,6 +105,10 @@ http://PLACEHOLDER.wpsho/wp-content/plugins/woocommerce/assets/css/twenty-twenty
 /category/sin-categoria/
 /2020/04/30/hola-mundo/
 /author/sariel/
+/wp-content/uploads/2020/05/Logo.png
+/wp-content/uploads/2020/05/Logo-300x292.png
+/wp-content/uploads/2020/05/Eslogan-1.png
+/wp-content/uploads/2020/05/Eslogan-1-300x41.png
 /2020/04/
 /wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js
 /wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js
@@ -119,6 +135,10 @@ http://PLACEHOLDER.wpsho/wp-content/plugins/woocommerce/assets/css/twenty-twenty
 /pagina-ejemplo/
 /category/sin-categoria/
 /author/sariel/
+/wp-content/uploads/2020/05/Logo.png
+/wp-content/uploads/2020/05/Logo-300x292.png
+/wp-content/uploads/2020/05/Eslogan-1.png
+/wp-content/uploads/2020/05/Eslogan-1-300x41.png
 /2020/04/
 /wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js
 /wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js
