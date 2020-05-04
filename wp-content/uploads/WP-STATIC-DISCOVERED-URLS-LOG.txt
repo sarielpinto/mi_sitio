@@ -21,6 +21,10 @@
 /wp-content/themes/twentytwenty/assets/js/index.js
 /wp-content/themes/twentytwenty/print.css
 /wp-content/themes/twentytwenty/style.css
+/wp-content/uploads/2020/05/Eslogan-1-300x41.png
+/wp-content/uploads/2020/05/Eslogan-1.png
+/wp-content/uploads/2020/05/Logo-300x292.png
+/wp-content/uploads/2020/05/Logo.png
 /wp-includes/css/dist/block-library/style.min.css
 /wp-includes/js/jquery/jquery-migrate.min.js
 /wp-includes/js/jquery/jquery.js
